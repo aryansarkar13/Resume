@@ -111,7 +111,7 @@ Live Website URL: [http://ieeesb.nitrr.ac.in](http://ieeesb.nitrr.ac.in/Aptrivia
 
 Raipur
 
-- Volunteered for monthlyevents.
+- Volunteered for monthly events.
 - Held sessions on open source and hackathons.
 
 ## Achievements
