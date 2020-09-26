@@ -36,9 +36,10 @@ Overall Percentage – 92.2%
 ## Experience
 
 **Ununu** – Web Development Intern
+
 JAN 2020 – FEB 2020
 
-_ **Designed and developed** _the website for the Germany based music collaboration workspace startup. The website was made with HTML, CSS and Javascript integrated with Mailchimp.
+**_Designed and developed_** the website for the Germany based music collaboration workspace startup. The website was made with HTML, CSS and Javascript integrated with Mailchimp.
 
 ## Projects
 
@@ -60,7 +61,7 @@ Link - _https://github.com/ECellNitrr/EcellWeb2k19_
 
 **Designed and developed** theofficial website of E-Cell NIT Raipur to promote entrepreneurship, provide opportunities for startups and internships for students, highlight the mission and goals of the cell, update our audience about the events, etc. The website is built in React.js and Django.
 
-## Skilss
+## Skills
 
 ### Lanaguages-
 
