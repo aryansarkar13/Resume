@@ -11,7 +11,7 @@
 
 2018 - Present
 
-CPI – 7.66
+CPI – 8.05
 
 Branch – Information Technology
 
